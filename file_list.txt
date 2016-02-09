@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est C470-C2B1
+
+ R‚pertoire de C:\Users\Dou\Documents\Git\Hello World
+
+09/02/2016  23:49    <DIR>          .
+09/02/2016  23:49    <DIR>          ..
+09/02/2016  23:49                 0 file_list.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  172ÿ527ÿ697ÿ920 octets libres
